@@ -1,0 +1,59 @@
+.backg{
+    background-color: rgb(228, 228, 228);
+  }
+  .navbar{
+    border-radius: 5px;
+  }
+  .cajicas{
+    background-color: rgb(140, 140, 201);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(49, 46, 46);
+    background-color: white;
+  }
+  
+  .titulo {
+    text-align: center;
+    font-size: 80px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+  }
+  .contenedor{
+  background-color: white;
+  border:2px solid #000000;
+  border-radius: 10px;
+  box-shadow: 0px 0px 3px #8a8c8f;
+  margin-right: 100px;
+  margin-left: 30px;
+  margin-top: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
+  } 
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 50;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  .content {
+    position: relative;
+    left: auto;
+    bottom: 10;
+    width: 100%;
+    background: rgba(185, 172, 172, 0.5);
+   margin-left: 1px;
+  }
+  .texto{
+        
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  .inputcaja {
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid grey;
+    border-radius: 5px;
+     } 
+  
+  
